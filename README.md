@@ -1,3 +1,3 @@
 # Elasticsearch
-- version: 7.11.0
+- version: 7.10.2
 - plugin: nalysis-kuromoji analysis-icu
